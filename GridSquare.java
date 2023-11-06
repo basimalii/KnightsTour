@@ -14,6 +14,7 @@ import javax.swing.*;
  *  The game grid and allows the background colour to be set with ease.
  *
  *  @author mhatcher
+ *  @author Basim Ali
  */
 public class GridSquare extends JPanel
 {
