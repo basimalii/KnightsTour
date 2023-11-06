@@ -1,5 +1,5 @@
 # Chess Knight's Quest: A Board Adventure
-### Step into the realm of Chess Knight's Quest, a captivating journey that challenges you to explore every corner of the chessboard with the noble knight.
+**Step into the realm of Chess Knight's Quest, a captivating journey that challenges you to explore every corner of the chessboard with the noble knight.**
 
 ## Project Highlights:
 **Uncover the Path**: Guide your knight through a grid of squares, unraveling a strategic puzzle.
