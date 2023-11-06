@@ -13,3 +13,12 @@
 **Rule Adherence**: The chessboard enforces legality, ensuring each move is within the boundaries of the game.
 
 **Victory Awaits**: As the board transforms, you'll know you've conquered the challenge in Chess Knight's Quest.
+
+## Video Demo:
+
+https://github.com/basimalii/KnightsTour/assets/113080842/1490123a-2f20-4029-af6a-8b6179322aeb
+
+
+## Screenshot:
+<img width="577" alt="Screenshot" src="https://github.com/basimalii/KnightsTour/assets/113080842/ee3db991-f570-431f-a59e-1470c0156463">
+
