@@ -12,6 +12,7 @@ import javax.swing.*;
  *  Notice that it implements ActionListener - so we can handle user input.
  *  This version also implements MouseListener to show equivalent functionality (compare with the other demo).
  *  @author mhatcher
+ *  @author Basim Ali
  */
 public class CheckerBoard extends JFrame implements ActionListener, MouseListener
 {
